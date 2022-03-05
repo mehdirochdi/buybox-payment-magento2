@@ -13,8 +13,7 @@ Shipping method.
 
 | Magento Version                                              | BuyBox Payment Version  | Install                                                      |
 |--------------------------------------------------------------|-------------------------|--------------------------------------------------------------|
-| Magento **2.0.x** Opensource (CE) && Enterprise Edition (EE) | BuyBoxPayment **2.0.x** | ```composer require buybox/buybox-payment-magento2 ~2.0.0``` |
-| Magento **2.1.x** Opensource (CE) && Enterprise Edition (EE) | BuyBoxPayment **2.1.x** | ```composer require buybox/buybox-payment-magento2 ~2.1.0``` |
+| Magento **2.0.x** Opensource (CE) && Enterprise Edition (EE) | BuyBoxPayment **1.0.x** | ```composer require buybox/buybox-payment-magento2 ~1.0.0``` |
 
 ### Installing
 
